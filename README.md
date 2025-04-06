@@ -1,6 +1,6 @@
 ## RiskyRich: Comprehensive Insurance Gap Analysis Agent
 
-RiskyRich is an advanced AI agent built on the FinForge framework, specializing in comprehensive insurance gap analysis and financial risk assessment.
+RiskyRich is an advanced AI agent specializing in comprehensive insurance gap analysis and financial risk assessment.
 
 ### Core Capabilities
 
